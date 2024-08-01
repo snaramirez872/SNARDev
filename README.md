@@ -1,4 +1,4 @@
-# Welcome to snaramirez-dev!
+# Welcome to SNARDev!
 ### Introduction
 Welcome to snaramirez dev! This in-progress web application will serve as a comprehensive resource for understanding the key concepts of JavaScript, Java, C, C++, and Python in separate tutorials for each language. The goal of this endeavor is to reinforce the knowledge I have of each language, teach others what I know, and learn more about what I don't know.
 ### Why JavaScript, Java, C/C++, and Python?
