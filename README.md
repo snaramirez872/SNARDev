@@ -14,5 +14,6 @@ As of typing this, GeeksforGeeks ranked these languages in the Top 4 of their [T
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![image](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase)
 ### How to Access
 As of July 30th, 2024 8:37pm EST, this web application is currently still in development and not yet deployed.
