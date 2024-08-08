@@ -1,0 +1,16 @@
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1vh 2vh;
+}
+
+.logo a {
+    text-decoration: none;
+    font-size: 3vh;
+    font-weight: 600;
+}
+
+.nav-links {
+    display: flex;
+    gap: 2vh;
+}

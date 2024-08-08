@@ -1,7 +1,7 @@
 import React from 'react';
 import UC_gif from '../../assets/under-construction.gif';
 import TimeSince from './TimeSince';
-import '../styles/UC.css';
+import './UC.css';
 
 export default function UnderConstruction() {
     return (
