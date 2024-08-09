@@ -3,8 +3,9 @@
     height: calc(100vh - var(--nav-height));
 }
 
-.primer-side {
+.side {
     width: var(--primer-side-width);
+    padding-left: 4vh;
 }
 
 .prim-content {
@@ -13,11 +14,16 @@
 }
 
 .topic-desc {
-    padding: 8vh;
+    padding: 5vh;
 }
 
-.primer-menu {
+.menu {
     display: flex;
     flex-direction: column;
+    margin-top: 4vh;
+    gap: 2vh;
+}
 
+.title {
+    margin-top: 5vh;
 }

@@ -12,8 +12,8 @@
 }
 
 /* Side Menus */
-#topics p {
-    font-size: 20px;
+p {
+    font-size: var(--default-font-size);
 }
 
 #topics {

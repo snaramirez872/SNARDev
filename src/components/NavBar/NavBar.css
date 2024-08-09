@@ -8,11 +8,15 @@
 
 .logo a {
     text-decoration: none;
-    font-size: 3vh;
+    font-size: var(--logo-font-size);;
     font-weight: 600;
 }
 
 .nav-links {
     display: flex;
     gap: 2vh;
+}
+
+.nav-links a {
+    text-decoration: none;
 }

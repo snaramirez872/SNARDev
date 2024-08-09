@@ -2,7 +2,7 @@
     padding-left: 2vh;
     padding-top: 1vh;
     padding-bottom: 1vh;
-    font-size: 3vh;
+    font-size: var(--logo-font-size);
     font-weight: 600;
     display: flex;
     align-items: center;

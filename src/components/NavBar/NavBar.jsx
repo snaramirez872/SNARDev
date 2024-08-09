@@ -7,7 +7,7 @@ export default function NavBar({ children }) {
         <nav className="NavBar">
             <div className="logo">
                 <Link to='/'>
-                    <p>SNARDev</p>
+                    <div>SNARDev</div>
                 </Link>
             </div>
             {children}
