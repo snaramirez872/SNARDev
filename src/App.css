@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+* .sub-headers {
+    margin-bottom: 4vh;
+}
+
+.topic-desc p {
+    font-size: 20px;
+}
+
+/* Side Menus */
+#topics p {
+    font-size: 20px;
+}
+
+#topics {
+    cursor: pointer;
+}

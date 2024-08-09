@@ -1,0 +1,23 @@
+.primer-stuff {
+    display: flex;
+    height: calc(100vh - var(--nav-height));
+}
+
+.primer-side {
+    width: var(--primer-side-width);
+}
+
+.prim-content {
+    width: calc(100% - var(--primer-side-width));
+    overflow-y: auto;
+}
+
+.topic-desc {
+    padding: 8vh;
+}
+
+.primer-menu {
+    display: flex;
+    flex-direction: column;
+
+}

@@ -1,7 +1,9 @@
 .NavBar {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 1vh 2vh;
+    height: var(--nav-height);
 }
 
 .logo a {
