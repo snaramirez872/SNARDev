@@ -1,7 +1,7 @@
 # Welcome to SNARDev!
 ### Introduction
-Welcome to snaramirez dev! This in-progress web application will serve as a comprehensive resource for understanding the key concepts of JavaScript, Java, C, C++, and Python in separate tutorials for each language. The goal of this endeavor is to reinforce the knowledge I have of each language, teach others what I know, and learn more about what I don't know.
-### Why JavaScript, Java, C/C++, and Python?
+Welcome to snaramirez dev! This in-progress web application will serve as a comprehensive resource for understanding the key concepts of JavaScript and Python in separate tutorials for each language. The goal of this endeavor is to reinforce the knowledge I have of each language, teach others what I know, and learn more about what I don't know. For all the newer developers and students out there, I am also including a Primer section where I go over how to set up your coding environment and Git.
+### Why JavaScript and Python?
 As of typing this, GeeksforGeeks ranked these languages in the Top 4 of their [Top 10 Programming Languages in 2024](https://www.geeksforgeeks.org/best-programming-languages/) list.
 ### Features
 - The fundamentals of each language.
@@ -16,4 +16,4 @@ As of typing this, GeeksforGeeks ranked these languages in the Top 4 of their [T
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase)
 ### How to Access
-As of July 30th, 2024 8:37pm EST, this web application is currently still in development and not yet deployed.
+As of September 6th, 2024 10:54am EST, this web application is currently still in development and not yet deployed.
