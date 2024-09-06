@@ -1,6 +1,6 @@
 # Welcome to SNARDev!
 ### Introduction
-Welcome to snaramirez dev! This in-progress web application will serve as a comprehensive resource for understanding the key concepts of JavaScript and Python in separate tutorials for each language. The goal of this endeavor is to reinforce the knowledge I have of each language, teach others what I know, and learn more about what I don't know. For all the newer developers and students out there, I am also including a Primer section where I go over how to set up your coding environment and Git.
+Welcome to snaramirez dev! This in-progress web application will serve as a comprehensive resource for understanding the key concepts of JavaScript and Python in separate tutorials for each language. The goal of this endeavor is to reinforce the knowledge I have of each language, teach others what I know, and learn more about what I don't know. For all the newer developers and students out there, I am also including a Primer section where I go over how to set up your coding environment and Git. As a way to introduce JavaScript, I will also go over HTML and CSS first.
 ### Why JavaScript and Python?
 As of typing this, GeeksforGeeks ranked these languages in the Top 4 of their [Top 10 Programming Languages in 2024](https://www.geeksforgeeks.org/best-programming-languages/) list.
 ### Features
