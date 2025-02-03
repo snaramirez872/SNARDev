@@ -62,7 +62,8 @@ export default function Primer() {
                                     <p>In this section, we will be going over the following</p>
                                     <ul>
                                         <li>How to set up your computer for coding projects</li>
-                                        <li>What is Git and how to use it</li>
+                                        <li>What is Git? How do we use it?</li>
+                                        <li>Picking a "lane" for programming</li>
                                     </ul>
                                 </div>
                             </div>
@@ -133,7 +134,7 @@ export default function Primer() {
                                             <div className="partOne">
                                                 <h3>What I Reccomend</h3>
                                                 <p>
-                                                    In my day-to-day I personally use Microsoft Visual Studio Code. It is available to download and use for free on Windows, MacOS, and Linux Systems. 
+                                                    In my day-to-day, I personally use Microsoft Visual Studio Code. It is available to download and use for free on Windows, MacOS, and Linux Systems. 
                                                     VS Code can be installed following the link <a href='https://code.visualstudio.com/download' target='_blank' rel='noreferrer'>here</a>.
                                                 </p>
                                             </div>
@@ -155,6 +156,34 @@ export default function Primer() {
                                         TODO
                                         - Add part about UNIX
                                         */}
+                                        <div className="unix">
+                                            <h3>Useful UNIX Commands and Tips</h3>
+                                            <div className="unix-cmd">
+                                                <p>
+                                                    In WSL, UNIX commands are key. On MacOS and (of course) Linux, these commands are able to be used 100%. Here are a few of the basic ones you will need to start.
+                                                </p>
+                                                <ul>
+                                                    <li><span>mkdir &lt;dir name&gt;</span> - makes a new directory (or folder) with the given name</li>
+                                                    <li><span>cd &lt;dir name&gt;</span> - changes the working director to he given one</li>
+                                                    <li><span>cd</span> - go back to the home directory</li>
+                                                    <li><span>cd ..</span> - go back to the previous directory</li>
+                                                    <li><span>touch &lt;file name&gt;</span> - makes a new file with the given name in the current directory</li>
+                                                    <li><span>ls -l</span> - lists all of the items present in the current directory with the information about each item such as permissions, size, etc.</li>
+                                                    <li><span>rm &lt;file name&gt;</span> - deletes the given file if it exists in the current directory</li>
+                                                    <li><span>rm -r &lt;dir name&gt;</span> - deletes the given subdirectory and all of its contents if it exists in the current directory</li>
+                                                    <li><span>code .</span> - opens up VS Code using the current directory as the workspace</li>
+                                                    <ul>
+                                                        <li>MacOS - This command needs to be installed via the terminal first before use.</li>
+                                                        <li>WSL - Use of this command will open up a Linux instance of VS Code on your Windows machine</li>
+                                                    </ul>
+                                                    <li><span>explorer.exe .</span> - (WSL Specific) Opens up the WIndows FIle Explorer to the current directory</li>
+                                                    <li><span>cd /mnt/c</span> - (WSL Specific) Accesses your Windows C Drive from WSL</li>
+                                                </ul>
+                                            </div>
+                                            <div className='disclaimer'>
+                                                <p>Any other commands like git and those that are used to compile/run code such as node, python3, etc. will be discussed as they ome up later.</p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
